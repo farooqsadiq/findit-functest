@@ -1,0 +1,5 @@
+FINDIT_URL='https://findit.library.jhu.edu'
+#FINDIT_URL='https://findit-preprod.library.jhu.edu'
+#FINDIT_URL='https://test-findit.library.jhu.edu'
+#FINDIT_URL='https://findit.test'
+
